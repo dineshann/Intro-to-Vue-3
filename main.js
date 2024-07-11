@@ -4,6 +4,7 @@ const app = Vue.createApp({
             product: 'Socks',
             image: './assets/images/socks_blue.jpg',
             description: 'The is made in india',
+            url: 'https://amortree.com/',
 
         }
     }
